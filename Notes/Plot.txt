@@ -1,1 +1,23 @@
-This is where we can keep track of plot points to integrate.
+###################################################################################################
+#
+# The Horse that No One Could See
+#
+# A Game by the Bros
+#
+# Plot.txt
+#
+# This file contains the notes for how the plot flows for the visual novel.
+#
+###################################################################################################
+#
+#  DATE 	INIT	Description
+# ------	----	-----------
+# 030520	WDM		Initial Release. Added "Moose Room" Ending idea.
+#
+###################################################################################################
+
+"Moose Room" Ending
+-------------------
+	Our protagonist finds himself falling through a portal that lands them in a white room with a
+moose. We are given a glimpse of the moose, before the scene fades to black, and we are given a
+description that the protagonist is dying by some inexplicable method.
