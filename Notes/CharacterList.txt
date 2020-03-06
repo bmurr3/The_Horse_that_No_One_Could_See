@@ -1,1 +1,25 @@
-This is where we can list characters and descriptions so that we can keep them together.
+###################################################################################################
+#
+# The Horse that No One Could See
+#
+# A Game by the Bros
+#
+# Character.txt
+#
+# This file contains the notes for how the characters for the visual novel.
+#
+###################################################################################################
+#
+#  DATE 	INIT	Description
+# ------	----	-----------
+# 030620	WDM		Adding Basic White Girl.
+#
+###################################################################################################
+
+Basic White Girl
+----------------
+Potential Names: Ashleigh, Vanessa, Patricia
+	You have the option to go out on a date with the BWG. Conversation "options" are locked by a
+premium update. The only thing available is to talk about horses. You are then given the option to
+either let her talk or to talk over her. If you let her talk, she is tied up in the corner of the
+Cult endings. If you talk over her, she is the cult leader.
