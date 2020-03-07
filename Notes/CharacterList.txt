@@ -2,7 +2,7 @@
 #
 # The Horse that No One Could See
 #
-# A Game by the Bros
+# A Game by Six Guys in a Basement
 #
 # Character.txt
 #
@@ -23,3 +23,14 @@ Potential Names: Ashleigh, Vanessa, Patricia
 premium update. The only thing available is to talk about horses. You are then given the option to
 either let her talk or to talk over her. If you let her talk, she is tied up in the corner of the
 Cult endings. If you talk over her, she is the cult leader.
+
+Hoodie Dude
+-----------
+Potential Names: Hoodie Dude
+	You have the option to talk to hoodie dude, then lead down events to the "FBI Abduction" ending.
+
+Doctor
+------
+Potential Names:
+	A madman who is adding you to the Frankenhorse monster.
+

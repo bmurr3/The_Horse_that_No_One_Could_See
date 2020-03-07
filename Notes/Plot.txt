@@ -2,7 +2,7 @@
 #
 # The Horse that No One Could See
 #
-# A Game by the Bros
+# A Game by Six Guys in a Basement
 #
 # Plot.txt
 #
@@ -21,8 +21,9 @@
 -------------------
 	Our protagonist finds himself falling through a portal that lands them in a white room with a
 horse. We are given a glimpse of the horse, before the scene fades to black, and we are given a
-description that the protagonist is dying by some inexplicable method. The method is randomly
-generated. There should be a random chance to get this ending.
+description that the protagonist is dying by some inexplicable method. Introduced in Night 1 as a
+dream sequence, then make it an easter egg ending. There should be a random chance to get this
+ending. Requires clicking the bus stop like 20 times.
 
 "FBI Abduction" Ending - Contributed by Jon Snodgrass
 ----------------------
@@ -49,3 +50,11 @@ almagamation made of human flesh. You are sewn on as a replacement.
 "Horses for the Blood God" Ending - Contributed by Jeff Murray
 ---------------------------------
 	You decide to kill all the horses to save a child, appeasing the blood god.
+
+Night Sequence First
+
+Night 1:
+	You dream about the Horse Room.
+Day 1:
+	You wake up confused about the dream, but receive a call regarding a horse-themed serial killer
+in a local town.
