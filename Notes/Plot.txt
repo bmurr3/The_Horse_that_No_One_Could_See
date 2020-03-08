@@ -1,0 +1,60 @@
+###################################################################################################
+#
+# The Horse that No One Could See
+#
+# A Game by Six Guys in a Basement
+#
+# Plot.txt
+#
+# This file contains the notes for how the plot flows for the visual novel.
+#
+###################################################################################################
+#
+#  DATE 	INIT	Description
+# ------	----	-----------
+# 030520	WDM		Initial Release. Added "Moose Room" Ending idea.
+# 030620	WDM		Adding Ending Ideas.
+#
+###################################################################################################
+
+"Horse Room" Ending - Contributed by Will Murray
+-------------------
+	Our protagonist finds himself falling through a portal that lands them in a white room with a
+horse. We are given a glimpse of the horse, before the scene fades to black, and we are given a
+description that the protagonist is dying by some inexplicable method. Introduced in Night 1 as a
+dream sequence, then make it an easter egg ending. There should be a random chance to get this
+ending. Requires clicking the bus stop like 20 times.
+
+"FBI Abduction" Ending - Contributed by Jon Snodgrass
+----------------------
+	Our protagonist finds a shady man in a hoodie. He knows about the horse, but cannot see the
+horse. He believes it's an FBI expirament. Inviting his to come along with him, you must save his
+life to receive the ending. The horse is an expiramental robot. The FBI abducts you, and puts bags
+over your heads.
+
+"Eldritch Horror" Ending - Contributed by Phil Snodgrass
+------------------------
+	You discover that the horse is, in fact, an eldritch horror. It begins to convert into it's
+eldritch form, before the scene fades to shaking static. You wake up to discover that you are now
+an eldritch horse, and make it your mission to convert someone else into an eldritch horse.
+
+"Doctor Frankenstein" Ending - Maybe - Contributed by Tyler Suthard
+----------------------------
+	You find a surgeon who kills you, and find that the horse is, in fact, a frankenstein-type
+almagamation made of human flesh. You are sewn on as a replacement.
+
+"Blood for the Horse God" Ending - Contributed by Jeff Murray
+--------------------------------
+	You decide to sacrifice a child to summon and worship the horse god.
+
+"Horses for the Blood God" Ending - Contributed by Jeff Murray
+---------------------------------
+	You decide to kill all the horses to save a child, appeasing the blood god.
+
+Night Sequence First
+
+Night 1:
+	You dream about the Horse Room.
+Day 1:
+	You wake up confused about the dream, but receive a call regarding a horse-themed serial killer
+in a local town.
