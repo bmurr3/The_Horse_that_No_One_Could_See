@@ -19,15 +19,14 @@ Hey, you the guy investigating the disappearances?
 #1
 -My name is Dennis. I might have something that will help you. 
 
--I was going for a walk down in the park late at night cause I couldn't sleep and I hear something. It sounded like a machine screeching and then hoofbeats.
+-I was going for a walk down in the park late at night cause I couldn't sleep and I hear something. It sounded like a horse whinnying and then hoofbeats.
 
 -I thought nothing of it at first but then a couple nights later the same thing happened. So I decided to stake it out.
 	~What did you find?
 		-I waited and at first there was nothing....	 Then around 11PM I heard the same sound again. 
 		-I looked around with my night vision goggles to try and get a view of what it was.
-		-It looked like a mechanical horse! It looked right at me.
-		-It looked at me and started to charge. I ran away and tripped into a ditch. It ran over the top of me and when I got up I saw some guys wandering around in the forest with weird gadgets talking about some experiment.
-
+		-It was a horse! It began to approach me slowly and pretty soon it was right on top of me!
+		-It looked right at me and started to attack. I tried to run away and fell into a ditch. It ran over the top of me and disappeared.
 			~Are you stupid?
 				-No. Not at all. Maybe a little. (Return to questions, with this option grayed out)
 			~Are you crazy?
@@ -38,8 +37,10 @@ Hey, you the guy investigating the disappearances?
 		
 
 #A
--Yeah. They thought I was crazy and wanted to arrest me. 
-~I didn't want to tell them I had heard of this before.
+-Yeah. They thought I was crazy and wanted to arrest me.
+~Was there anything else unusual?
+-When I got up I saw some guys wandering around in the forest with weird gadgets talking about some experiment. Does that fit the bill?
+~Just as I expected.
 -You mean, you have seen this before?
 ~Yes, I have been traveling around investigating this after someone brought it up to me. (Shows a notebook to Dennis)
 - Wow, I cant believe it. This looks exactly like what I saw!
@@ -47,10 +48,29 @@ Hey, you the guy investigating the disappearances?
 ~The sound and attacks are also common. You were lucky. Most were in groups and some didn't make it out alive.
 -I had no idea. I guess I am a little stupid. Is there anything I can do?
 ~There are a few theories about who made it. Aliens. The Russians. The Chinese. Maybe even the French. No more clues than what we have as to who it is.
--Can I help you stake it out?
-	~Yes
 
-	~No, It's too dangerous. I must face it alone.
 	
- 
+#B
+-They didn't even want to listen to me. Horses are so common around here.
+~Can you give me a description?
+-It was a horse
+~Alright, how tall?
+-About 18 hands?
+~18, wow. That's a tall horse. How did you measure?
+-I Looked at the position of his head in relation to a couple branches above him as I was crawling away.
+~You used parallax measurement?
+-You don't?
+~ Moving on. Any distinct markings? Hair color?
+-He was brown, with a white streak down his chest. His hooves were well trimmed.
+~Eye color?
+-Black, soulless, and beady. Like a horse's eyes.
+~And his mane was?
+-Long and flowing. Like a flock of goats down a mountainside.
+~Like this? (Shows crude drawing of horse)
+-Yeah. What are you going to do now?
+	~I'll continue my investigation elsewhere. I'm going back to town. (To street)
+		-Okay, Good luck!
+	~I want to see the scene of the attack. Can you show me? (To forest)
+
+
 
